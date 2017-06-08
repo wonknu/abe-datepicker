@@ -2,7 +2,7 @@
 
 ## Installation
 
-Install plugin via AbeCMS CL:
+Install plugin via AbeCMS CLI:
 
 ```bash
 abe install wonknu/abe-datepicker
