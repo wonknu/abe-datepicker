@@ -1,4 +1,4 @@
-# Mailer plugin for [AbeCMS](https://github.com/abecms/abecms)
+# Date picker plugin for [AbeCMS](https://github.com/abecms/abecms)
 
 ## Installation
 
